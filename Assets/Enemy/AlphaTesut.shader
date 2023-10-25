@@ -20,6 +20,7 @@ Shader "Custom/AlphaTesut"
 		
 		CGPROGRAM
 			#pragma target 3.0
+			#pragma surface surf Standard fullforwardshadows alphatest:_Cutoff
 
 			fixed4 _Color;
 			sampler2D _MainTex;
