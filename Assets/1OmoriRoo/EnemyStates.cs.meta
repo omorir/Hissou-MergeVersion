@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2361bac0f9a295b40b1b6ac76f3fd81b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ThisEnemy: {instanceID: 0}
+  - hpSlider: {instanceID: 0}
+  - DieEffect: {fileID: 8869313708980375198, guid: db5ad15c1d47e0a4abd623dda9433c14, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

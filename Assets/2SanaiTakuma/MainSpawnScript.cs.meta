@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1d7537f6b1775e043a81369bff3fdc0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Dog: {fileID: 7399796786248546852, guid: 424eb6773ba26df468100e95557b95f7, type: 3}
+  - Bard: {fileID: 6481002796639320684, guid: ac9f5f1b69ccca14391ddece56415ff9, type: 3}
+  - Monkey: {fileID: 915785777320697650, guid: a2fbf4ec5bb8c7648b72b2dbd73a4db8, type: 3}
+  - BigDog: {fileID: 7017479723883445144, guid: ff0172fb67c29554f9149d356244a590, type: 3}
+  - BigBard: {fileID: 1877301131924692981, guid: 1a20a0c0886c61447b8a88fd1be19553, type: 3}
+  - BigMonkey: {fileID: 915785777320697650, guid: a2fbf4ec5bb8c7648b72b2dbd73a4db8, type: 3}
+  - rangeA: {instanceID: 0}
+  - rangeB: {instanceID: 0}
+  - rangeC: {instanceID: 0}
+  - rangeD: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
